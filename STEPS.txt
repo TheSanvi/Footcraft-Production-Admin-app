@@ -1,0 +1,5 @@
+1 - add the dependency and dev dependency in the your pubspec.yamel file (check the dependency in zip folder)
+2 - copy past the lib folder
+3 - add application and connect app in firebase and create collections in firestore database as per the video instructions
+4 - add the values in firebase_options.dart as your firabase settings
+5 - for more details watch video carefully
